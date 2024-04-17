@@ -4,11 +4,9 @@ theme: jekyll-theme-minimal
 
 
 # Theme vars
-title: The Kübler Lab
+title: The Arndt Lab
 description: |
-  Our research focuses on molecular changes in the development of various tumors. 
-  We now want to use bioinformatic and experimental methods to better understand the early development of cancer 
-  in order to be able to intervene and prevent it in the long term.
+  Our research focuses on molecular changes in genomes over long and short time scales.
   <br>
   <a href="index.html">Projects</a> | 
   <a href="team.html">Team</a>
