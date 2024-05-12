@@ -2,17 +2,35 @@
 ---
 
 @import "jekyll-theme-minimal";
+$color-green: #0A5B56;
 
-a{
-  color: green;
+/* unvisited link */
+a:link {
+  color: $color-green;
 }
+
+/* visited link */
+a:visited {
+  color: $color-green;
+}
+
+/* mouse over link */
+a:hover {
+  color: $color-green;
+}
+
+/* selected link */
+a:active {
+  color: $color-green;
+}
+
 
 h1{
-  color: green;
+  color: $color-green;
 }
 h2{
-  color: green;
+  color: $color-green;
 }
 h3{
-  color: green;
+  color: $color-green;
 }
